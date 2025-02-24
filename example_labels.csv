@@ -1,0 +1,12 @@
+﻿id,label,,,NOTE: ,
+0,GOOD MORNING,,,,THE USAGE OF THIS IS TO LABEL THE KEYPOINTS FOR EACH SIGN
+1,GOOD AFTERNOON,,,,the id represents the video name (it must be integers only) while the label is for labelling the extracted keypoints
+2,GOOD EVENING,,,,
+3,HELLO,,,,
+4,HOW ARE YOU,,,,
+5,I LOVE YOU,,,,
+6,I MISS YOU,,,,
+7,A,,,,
+8,B,,,,
+9,C,,,,
+10,D,,,,
