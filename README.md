@@ -1,7 +1,4 @@
 # sign-language-AI-detection-using-hand-keypoints
-a simple sign language hand detection process from extracting hand keypoints to real time testing
-
-# sign-language-AI-detection-using-hand-keypoints
 
 A simple sign language hand detection process from extracting hand keypoints to real-time testing.
 
@@ -70,3 +67,4 @@ This project is licensed under the MIT License. Feel free to use and modify it f
 ---
 
 Happy coding! 🚀
+
